@@ -1,8 +1,9 @@
 # CPP-Tutorials
 Only a place where I put C/C++ code snippets for my own tutorials.
 
-template_example.cpp 
-prints out 
+      template_example.cpp 
+      
+prints out this:
 
     **********************************
     Templates in C++ tutorial examples
