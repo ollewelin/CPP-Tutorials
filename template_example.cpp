@@ -30,7 +30,9 @@ T olleTest1::Alu<T>::mul(T a, T b)
 
 
 int main() {
-
+  printf("**********************************\n");
+  printf("Templates in C++ tutorial examples\n");
+  printf("**********************************\n");
   float a = 10.2f;
   float b = 10.1f;
   float result = 0.0f;
