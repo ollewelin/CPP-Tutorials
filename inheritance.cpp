@@ -2,7 +2,6 @@
 #include <iostream>
 #include <stdio.h>
 #include <typeinfo>
-#include <stdio.h>
 
 class olle2
 {
