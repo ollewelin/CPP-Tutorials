@@ -103,6 +103,7 @@ int main(int argc, char *argv[])
             }
             // Read the file
             int filesize1 = read(fd,buf,sizeof(buf));
+            close(fd);
             if(filesize1 < 0)
             {
                 printf("read error\n");
