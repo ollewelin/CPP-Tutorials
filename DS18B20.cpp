@@ -1,3 +1,5 @@
+//Code used in QT Creator on a Rasperry Pi
+
 #include <QCoreApplication>
 //https://www.waveshare.com/wiki/Raspberry_Pi_Tutorial_Series:_1-Wire_DS18B20_Sensor
 #include <stdio.h>
