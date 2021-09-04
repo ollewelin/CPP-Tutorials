@@ -1,0 +1,6 @@
+
+zip source_code *.c *.h
+
+split -b 6M pix2hid_weight.zip "pix2hid_weight.part"
+
+cat pix2hid_weight.parta* > pix2hid_weight.dat.tar.gz
